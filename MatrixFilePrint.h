@@ -1,0 +1,4 @@
+#ifndef UNTITLED1_MATRIXFILEPRINT_H
+#define UNTITLED1_MATRIXFILEPRINT_H
+void PrintFileMatrix(int **Matrix, int size);
+#endif //UNTITLED1_MATRIXFILEPRINT_H
